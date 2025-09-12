@@ -1,7 +1,7 @@
-# E-COMMERCE PAGE FINAL PROJECT FIS
+# FrameCore
 
 ### Descripción General
-Este es el repositorio oficial del proyecto "Sin definir" un prototipo de una tienda en línea enfocado en la experiencia de usuario y el diseño de interfaz (UI/UX). Este proyecto fue desarrollado con el objetivo de simular un entorno de trabajo real, aplicando una metodología ágil de gestión de proyectos.
+Este es el repositorio oficial del proyecto FrameCore un prototipo de una tienda en línea enfocado en la experiencia de usuario y el diseño de interfaz (UI/UX). Este proyecto fue desarrollado con el objetivo de simular un entorno de trabajo real, aplicando una metodología ágil de gestión de proyectos.
 
 ### Metodología de Trabajo
 El proyecto se gestiona bajo el marco de trabajo **Scrum**, con Sprints de 2 semanas. Utilizamos [Monday.com](https://monday.com/) para la gestión de tareas, [Slack](https://slack.com/) para la comunicación del equipo y este repositorio en GitHub para la versión de los archivos de diseño y documentación.
