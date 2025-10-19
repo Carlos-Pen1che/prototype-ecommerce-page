@@ -32,7 +32,7 @@ El proyecto se gestiona bajo el marco de trabajo **Scrum**, con Sprints de 2 sem
 
 >Imagen sobre el apartado de información de la página y otros recursos del mismo.
 
-### Requerimentos funcionales
+### Requerimientos funcionales
 El prototipo de nuestra tienda e-commerce incluye las siguientes funcionalidades:
 
 -   **Página de inicio:** Con un diseño limpio y productos destacados (Por recomendación del equipo de trabajo).
@@ -40,12 +40,22 @@ El prototipo de nuestra tienda e-commerce incluye las siguientes funcionalidades
 -   **Carrito de compras:** Un flujo de usuario para agregar, eliminar y gestionar productos antes de la compra.
 -   **Página de producto:** Con detalles, galería de imágenes y reseñas.
 -   **Proceso de pago simulado:** Un recorrido para el usuario desde el carrito hasta la confirmación de la compra.
-### Requerimetos no funcionales 
+### Requerimientos no funcionales 
 Aquellos requisitos que no fueron viables para su ejecución en el proyecto e-commerce fueron los siguientes:
 
 -    **Cajas sorpresas:** Resultaba inadecuado agregar sorteos o cajas sorpresas para los usuarios debido a la ambigüedad de las descripciones que nos proporcionaba el cliente.
 -    **Apariencia desordenada de la intefaz en la página inicial:** En un inicio nuestro comprador no tenía una idea clara de lo que quería que se mostrara al momento de desplegarse su página de e-commerce proporcionando colores apagados, teniend una idea monótona y deficiente de lo que búscaba por lo que se le hicieron las respectivas observaciones para tener una mejor imagen del proyecto a lo que aceptó.
 -    **Ventanas emergentes en exceso:** Se le comentó al cliente que el uso excesivo de ventanas emergentes que aparecen de manera frecuente e inesperada resultan en gran medida muy molestas para los usuarios por el hecho de interrupir la navegación por la página lo que desemboca en el abandono de la misma, la atención y paciencia de las personas en la actualidad son muy efímeras por lo que es un aspecto importante.
+
+  ### Caso(s) de uso del proyecto.
+
+  -[Primer diagrama caso de uso sobre la búsqueda de productos.](https://drive.google.com/file/d/1T8AKzjruAHgj8i0s6GvQjIcgzSYlRAwY/view?usp=sharing)
+
+  -[Segundo diagrama de caso de uso sobre el registro de usuarios.](https://drive.google.com/file/d/1UO6fSXNFMpHxH6Jj4F6qPfzWPs7Wsm-g/view?usp=sharing)
+
+  -[Tercer diagrama de caso de uso sobre el uso del carrito.](https://drive.google.com/file/d/1tqPKntM2dxyHBUUQaIg9ti2xf04Stgba/view?usp=sharing)
+
+  -[Cuarto diagrama de caso de uso con respecto al pago que se realiza de los productos seleccionados.](https://drive.google.com/file/d/1mVtBZjLbmnlzTqALPBYw9hjbsOm59eH4/view?usp=sharing)
 ### Equipo de Proyecto
 Este proyecto fue realizado por el equipo de desarrollo.
 
