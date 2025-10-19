@@ -51,19 +51,15 @@ Aquellos requisitos que no fueron viables para su ejecución en el proyecto e-co
 
   -[Primer diagrama caso de uso sobre la búsqueda de productos.](https://i.ibb.co/20vnRW66/Captura-de-pantalla-2025-10-18-201722.png)
 
-  >Primer diagrama caso de uso sobre la búsqueda de productos.
 
   -[Segundo diagrama de caso de uso sobre el registro de usuarios.](https://i.ibb.co/1GY72h2G/Captura-de-pantalla-2025-10-18-201752.png)
 
-  >Segundo diagrama de caso de uso sobre el registro de usuarios.
 
   -[Tercer diagrama de caso de uso sobre el uso del carrito.](https://i.ibb.co/wZYkwwQX/Captura-de-pantalla-2025-10-18-201911.png)
 
-  >Tercer diagrama de caso de uso sobre el uso del carrito.
 
   -[Cuarto diagrama de caso de uso con respecto al pago que se realiza de los productos seleccionados.](https://i.ibb.co/GQrcf8D2/Captura-de-pantalla-2025-10-18-202105.png)
 
-  >Cuarto diagrama de caso de uso con respecto al pago que se realiza de los productos seleccionados.
 
 ### Avances del proyecto
 
