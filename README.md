@@ -182,6 +182,10 @@ Aplicar la metodología Scrum en un proyecto de e-commerce garantiza un desarrol
 
 Más adelante se muestra la distribución de roles aplicada a nuestro contexto.
 
+### Bitácora:
+
+En cunato a la primera parte del proyecto, realizamos reuniones constantes y profundas tanto entre el equipo como con el cliente, la comunicación del equipo ha sido clara y concisa en donde todos hemos colaborado adecuandamente y en donde hemos evitado los problemas que se pueden llegar a presentar durante nuestro desarrollo, sin embargo, no pudimos evitar situaciones naturales como llo ha sido el desafortunado hecho de atrasarnos durante un sprint completo debido a que todo el quipo de desarrollo cayó enfermo de una fuerte infección durante nuestro periodo de trabajo.
+
 ### Equipo de Proyecto
 Este proyecto fue realizado por el equipo de desarrollo.
 
