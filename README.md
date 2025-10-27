@@ -80,6 +80,8 @@ Aquellos requisitos que no fueron viables para su ejecución en el proyecto e-co
 - [ ] Configuración de botones (En proceso).
 - [ ] Adaptación del menú y otras opciones.
 
+### Cronograma
+[Cronograma](https://ibb.co/BKrbY3LW)
 ### Metodología de Trabajo
 El proyecto se gestiona bajo el marco de trabajo **Scrum**, con Sprints de 2 semanas. Utilizamos [Monday.com](https://monday.com/) para la gestión de tareas, [Slack](https://slack.com/) para la comunicación del equipo y este repositorio en GitHub para la versión de los archivos de diseño y documentación.
 ### Equipo de Proyecto
