@@ -8,9 +8,9 @@ Este es el repositorio oficial del proyecto GameTech Store un prototipo de una t
 El prototipo de nuestra tienda e-commerce incluye las siguientes funcionalidades:
 
 
-![Imagenrequisitos.](https://i.ibb.co/vCxpy4wB/2ec4dd60-3d94-4cab-8feb-ba21c2de34f5.jpg)
+![Imagen requisitos funcionales.](https://i.ibb.co/vCxpy4wB/2ec4dd60-3d94-4cab-8feb-ba21c2de34f5.jpg)
 
-![Imagenrequisitos.](https://i.ibb.co/xS7mxnyq/bd31815c-acb3-4288-9387-f7577716a3dd.jpg)
+![Imagen requisitos funcionales segunda parte.](https://i.ibb.co/xS7mxnyq/bd31815c-acb3-4288-9387-f7577716a3dd.jpg)
 
 
 ### Requerimientos no funcionales 
