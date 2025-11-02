@@ -8,9 +8,9 @@ Este es el repositorio oficial del proyecto GameTech Store un prototipo de una t
 El prototipo de nuestra tienda e-commerce incluye las siguientes funcionalidades:
 
 
-![Imagen.](https://dochub.com/m/shared-document/eduardo-alejandro-huerta-g%C3%B3mez/5lae27DR5q25ex9RmqjZv1/copia-de-imagen-de-whatsapp-2025-11-01-a-las-19-22-46-defc7de6-jpg?dt=BTgjg-DUGReiiRK6DFi7)
+![Imagenrequisitos.](https://i.ibb.co/vCxpy4wB/2ec4dd60-3d94-4cab-8feb-ba21c2de34f5.jpg)
 
-![Imagen.](https://dochub.com/m/shared-document/eduardo-alejandro-huerta-g%C3%B3mez/qA8ldYxVE354ra8R6MJrpP/imagen-de-whatsapp-2025-11-01-a-las-19-23-17-315e7c19-jpg?dt=u4aXf9yXyP1E3pgmDxhA)
+![Imagenrequisitos.](https://i.ibb.co/xS7mxnyq/bd31815c-acb3-4288-9387-f7577716a3dd.jpg)
 
 
 ### Requerimientos no funcionales 
