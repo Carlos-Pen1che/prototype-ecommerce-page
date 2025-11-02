@@ -7,11 +7,8 @@ Este es el repositorio oficial del proyecto GameTech Store un prototipo de una t
 ### Requerimientos funcionales
 El prototipo de nuestra tienda e-commerce incluye las siguientes funcionalidades:
 
--   **Página de inicio:** Con un diseño limpio y productos destacados (Por recomendación del equipo de trabajo).
--   **Catálogo de productos:** Una sección para explorar productos por categorías.
--   **Carrito de compras:** Un flujo de usuario para agregar, eliminar y gestionar productos antes de la compra.
--   **Página de producto:** Con detalles, galería de imágenes y reseñas.
--   **Proceso de pago simulado:** Un recorrido para el usuario desde el carrito hasta la confirmación de la compra.
+![imagen1requisitos.](https://i.ibb.co/vCxpy4wB/2ec4dd60-3d94-4cab-8feb-ba21c2de34f5.jpg)
+![Image2requisitos](https://i.ibb.co/xS7mxnyq/bd31815c-acb3-4288-9387-f7577716a3dd.jpg)
   
 ### Requerimientos no funcionales 
 Aquellos requisitos que no fueron viables para su ejecución en el proyecto e-commerce fueron los siguientes:
