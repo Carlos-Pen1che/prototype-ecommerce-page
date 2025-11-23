@@ -67,6 +67,8 @@ Aquellos requisitos que no fueron viables para su ejecución en el proyecto e-co
 
   ### Caso(s) de uso del proyecto.
 
+  -[Diagrama de caso de uso GENERAL.](https://i.ibb.co/9mNv1gQD/Captura-de-pantalla-2025-11-23-160842.png)
+
   -[Primer diagrama caso de uso sobre la búsqueda de productos.](https://i.ibb.co/20vnRW66/Captura-de-pantalla-2025-10-18-201722.png)
 
 
