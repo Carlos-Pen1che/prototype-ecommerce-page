@@ -1,7 +1,7 @@
 # GameTech Store
 
 ### Descripción General
-Este es el repositorio oficial del proyecto GameTech Store un prototipo de una tienda en línea enfocado en la experiencia de usuario y el diseño de interfaz (UI/UX). Este proyecto fue desarrollado con el objetivo de simular un entorno de trabajo real, aplicando una metodología ágil de gestión de proyectos.
+Yo como uasuario quiero navegar a través del catálogo de productos electrónicos, visualizar la información detallada de cada artículo y añadirlos al carrito de compras, para realizar una compra de forma rápida, segura y con la información necesaria para tomar una decisión informada.
 
 
 ### Requerimientos funcionales
