@@ -8,9 +8,11 @@ Este es el repositorio oficial del proyecto GameTech Store un prototipo de una t
 El prototipo de nuestra tienda e-commerce incluye las siguientes funcionalidades:
 
 
-![Imagen requisitos funcionales.](https://i.ibb.co/vCxpy4wB/2ec4dd60-3d94-4cab-8feb-ba21c2de34f5.jpg)
+![Imagen requisitos funcionales.](https://i.ibb.co/v434CZLs/Whats-App-Image-2025-11-22-at-8-04-59-PM.jpg)
 
-![Imagen requisitos funcionales segunda parte.](https://i.ibb.co/xS7mxnyq/bd31815c-acb3-4288-9387-f7577716a3dd.jpg)
+![Imagen requisitos funcionales segunda parte.](https://i.ibb.co/Q3ZdBkdp/Whats-App-Image-2025-11-22-at-8-05-31-PM.jpg)
+
+![Imagen requisitos funcionales tercera parte.](https://i.ibb.co/zWd4H76N/Whats-App-Image-2025-11-22-at-8-06-11-PM.jpg)
 
 
 ### Requerimientos no funcionales 
