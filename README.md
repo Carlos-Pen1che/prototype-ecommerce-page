@@ -135,7 +135,7 @@ Aquellos requisitos que no fueron viables para su ejecución en el proyecto e-co
 
 - [x] Elección del diseño de interfaz.
 - [x] Definir el objetivo principal de la página WEB.
-- [x] Informarnos acerca del ambienteen el que se desenvuelve la temática de nuestra página.
+- [x] Informarnos acerca del ambiente en el que se desenvuelve la temática de nuestra página.
 - [x] Que el diseño pueda funcionar en computadoras, tabletas y celulares.
 - [x] Crear descripciones de los productos.
 - [x] Profundizar una descripción más detallada del producto (En proceso).
