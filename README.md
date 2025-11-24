@@ -82,10 +82,39 @@ Aquellos requisitos que no fueron viables para su ejecución en el proyecto e-co
 
 >Cada una de las recomendaciones que se le proporciona al usuario dependiendo de la popularidad del producto, mostrando las características, precio y estrellas del mismo.
 
-![Imagen del apartado de información]
+![Imagen del apartado de filtros](https://i.ibb.co/h1w0ndDf/Whats-App-Image-2025-11-23-at-9-35-22-PM.jpg)
+![img flitros](https://i.ibb.co/rRyrBczt/Whats-App-Image-2025-11-23-at-9-35-25-PM.jpg)
 
->Imagen sobre el apartado de información de la página y otros recursos del mismo.
+>Imagen sobre el apartado de filtros.
 
+![Imagen del proceso de pago](https://i.ibb.co/gn9yCZ8/Whats-App-Image-2025-11-23-at-9-35-23-PM.jpg)
+
+>Imagen del proceso de pago.
+
+![Img sobre](https://i.ibb.co/jPRZr6KZ/Whats-App-Image-2025-11-23-at-9-35-29-PM.jpg)
+![img val](https://i.ibb.co/5xjhwYLw/Whats-App-Image-2025-11-23-at-9-35-29-PM-1.jpg)
+![img sobre va](https://i.ibb.co/27fnFnjk/Whats-App-Image-2025-11-23-at-9-35-29-PM-2.jpg)
+![imag cont](https://i.ibb.co/N2nyGL6p/Whats-App-Image-2025-11-23-at-9-35-30-PM-1.jpg)
+
+>Imagen sobre nosotros.
+
+![img centro de ayu](https://i.ibb.co/HTVHY9yh/Whats-App-Image-2025-11-23-at-9-35-30-PM-2.jpg)
+
+>Imagen centro de ayuda.
+
+![politi](https://i.ibb.co/9kQ38tMj/Whats-App-Image-2025-11-23-at-9-35-36-PM.jpg)
+
+>Política de devoluciones.
+
+![Panel de control](https://i.ibb.co/HLBB0Dym/Whats-App-Image-2025-11-23-at-9-35-37-PM.jpg)
+![Pan ctrl](https://i.ibb.co/LD3dZJMM/Whats-App-Image-2025-11-23-at-9-35-39-PM.jpg)
+![Existencia](https://i.ibb.co/Zzmd92bC/Whats-App-Image-2025-11-23-at-9-35-39-PM-1.jpg)
+![Ctrl de inv](https://i.ibb.co/jP3WsZKx/Whats-App-Image-2025-11-23-at-9-35-40-PM-1.jpg)
+![Hist movimientos](https://i.ibb.co/GvYVMGmm/Whats-App-Image-2025-11-23-at-9-35-40-PM-2.jpg)
+![Reportes](https://i.ibb.co/ZvyNFZ4/Whats-App-Image-2025-11-23-at-9-35-42-PM.jpg)
+![Configuración](https://i.ibb.co/5WwtN4Qp/Whats-App-Image-2025-11-23-at-9-35-42-PM-1.jpg)
+
+>Gestión del inventariado.
   ### Caso(s) de uso del proyecto.
 
   -[Diagrama de caso de uso GENERAL.](https://i.ibb.co/9mNv1gQD/Captura-de-pantalla-2025-11-23-160842.png)
