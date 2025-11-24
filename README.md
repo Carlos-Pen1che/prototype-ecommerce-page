@@ -88,17 +88,17 @@ Aquellos requisitos que no fueron viables para su ejecución en el proyecto e-co
 - [x] Informarnos acerca del ambienteen el que se desenvuelve la temática de nuestra página.
 - [x] Que el diseño pueda funcionar en computadoras, tabletas y celulares.
 - [x] Crear descripciones de los productos.
-- [ ] Profundizar una descripción más detallada del producto (En proceso).
+- [x] Profundizar una descripción más detallada del producto (En proceso).
 - [x] Utilizar imágenes de alta cálidad.
 - [x] Ser amigable y atractivo al usuario.
-- [ ] Configurar el método de pago.
-- [ ] Trabajar con el diseño del menú.
-- [ ] Trabajar con el loggin del usuario.
+- [x] Configurar el método de pago.
+- [x] Trabajar con el diseño del menú.
+- [x] Trabajar con el loggin del usuario.
 - [x] Definir un espacio para la información disponible de la página al cliente.
-- [ ] Ofrecer información de la página y redes sociales vinculadas.
-- [ ] Apartado de reseñas.
-- [ ] Configuración de botones (En proceso).
-- [ ] Adaptación del menú y otras opciones.
+- [x] Ofrecer información de la página y redes sociales vinculadas.
+- [x] Apartado de reseñas.
+- [x] Configuración de botones.
+- [x] Adaptación del menú y otras opciones.
 
 ### Cronograma
 [Cronograma](https://ibb.co/zTsJkKPP)
