@@ -241,9 +241,15 @@ Más adelante se muestra la distribución de roles aplicada a nuestro contexto.
 
 ### Bitácoras:
 
-[Bitácoras de la Desarrolladora FrontEnd](https://ibb.co/q3vDY64W)[](https://ibb.co/Kx7zDtHX)[](https://ibb.co/CGj1DGS)
-[Bitácoras del Desarrollador Backend](https://ibb.co/r20dzNkY)[](https://ibb.co/qh6x8mG)[](https://ibb.co/s9X3GMFd)
-[Bitácoras del Tester](https://ibb.co/5WL7w2N4)[](https://ibb.co/2H6d7fS)[](https://ibb.co/27qMXkhJ)
+[Bitácoras de la Desarrolladora FrontEnd](https://ibb.co/q3vDY64W)
+[1](https://ibb.co/Kx7zDtHX)
+[2](https://ibb.co/CGj1DGS)
+[Bitácoras del Desarrollador Backend](https://ibb.co/r20dzNkY)
+[1](https://ibb.co/qh6x8mG)
+[2](https://ibb.co/s9X3GMFd)
+[Bitácoras del Tester](https://ibb.co/5WL7w2N4)
+[1](https://ibb.co/2H6d7fS)
+[2](https://ibb.co/27qMXkhJ)
 
 ### Gestión de costos del Proyecto E-Comerce
 Este informe presenta el análisis de costos del proyecto E-commerce, ejecutado bajo la metodología Scrum con el objetivo de desarrollar una plataforma funcional. El proyecto tuvo una duración óptima de 2.4 meses (12 de septiembre al 23 de noviembre de 2025) y un costo total definitivo de $954,125 MXN. Este costo se considera coherente con el mercado mexicano para un proyecto de esta complejidad. Para ello se pueden usar algunos métodos como:
