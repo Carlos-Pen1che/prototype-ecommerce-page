@@ -41,27 +41,27 @@ Aquellos requisitos que no fueron viables para su ejecución en el proyecto e-co
 
 ### Bosquejos inciales del diseño de la interfaz en su primera versión del proyecto
 
-![Imagen de la barra de búsquedas y otras funciones.](https://i.ibb.co/Xx5jLq0F/Captura-de-pantalla-2025-10-18-152603.png)
+![Imagen de la barra de búsquedas y otras funciones.]
 
 >Imagen del buscador de productos junto al carrito y otras opciones para su uso.
 
-![Imagen de la página de inicio.](https://i.ibb.co/vC4fjY4R/Captura-de-pantalla-2025-10-18-152642.png)
+![Imagen de la página de inicio.]
 
 >Imagen de la página inicial.
 
-![Imagen de las categorías.](https://i.ibb.co/bR2f5CgS/Captura-de-pantalla-2025-10-18-152706.png)
-![Imagen de las categorías 2.](https://i.ibb.co/spZf2pcK/Captura-de-pantalla-2025-10-18-152721.png)
+![Imagen de las categorías.]
+![Imagen de las categorías 2.]
 
 >Imagen de la visualización de las diferentes categorías.
 
-![Imagen de las recomendaciones en cuanto a popularidad](https://i.ibb.co/cSkT4ZhN/Captura-de-pantalla-2025-10-18-152738.png)
-![Imagen de las recomendaciones en cuanto a popularidad2](https://i.ibb.co/0ytTH9fG/Captura-de-pantalla-2025-10-18-152808.png)
-![Imagen de las recomendaciones en cuanto a popularidad3](https://i.ibb.co/4w5QDYwC/Captura-de-pantalla-2025-10-18-152826.png)
-![Imagen de las recomendaciones en cuanto a popularidad4](https://i.ibb.co/RGtsjLD2/Captura-de-pantalla-2025-10-18-152840.png)
+![Imagen de las recomendaciones en cuanto a popularidad]
+![Imagen de las recomendaciones en cuanto a popularidad2]
+![Imagen de las recomendaciones en cuanto a popularidad3]
+![Imagen de las recomendaciones en cuanto a popularidad4]
 
 >Cada una de las recomendaciones que se le proporciona al usuario dependiendo de la popularidad del producto, mostrando las características, precio y estrellas del mismo.
 
-![Imagen del apartado de información](https://i.ibb.co/99dCrDqZ/Captura-de-pantalla-2025-10-18-152902.png)
+![Imagen del apartado de información]
 
 >Imagen sobre el apartado de información de la página y otros recursos del mismo.
 
