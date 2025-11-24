@@ -258,7 +258,7 @@ Este informe presenta el análisis de costos del proyecto E-commerce, ejecutado 
 [imagen](https://ibb.co/672PghJ2)
 
 2. Método COCOMO Semi-Detache
-[imagen]([https://ibb.co/C3DmG1rt](https://publuu.com/flip-book/1018098/2249750))
+   [PDF](https://publuu.com/flip-book/1018098/2249750)
 
 Con ello se dedujo lo siguiente:
 [imagen](https://ibb.co/cSqj8HhX)
