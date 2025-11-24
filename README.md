@@ -71,10 +71,14 @@ Aquellos requisitos que no fueron viables para su ejecución en el proyecto e-co
 ![Imagen categorías 8.](https://i.ibb.co/wh2BzSk9/Whats-App-Image-2025-11-23-at-9-35-19-PM-5.jpg)
 >Imagen de la visualización de las diferentes categorías.
 
-![Imagen de las recomendaciones en cuanto a popularidad]
-![Imagen de las recomendaciones en cuanto a popularidad2]
-![Imagen de las recomendaciones en cuanto a popularidad3]
-![Imagen de las recomendaciones en cuanto a popularidad4]
+![Popularidad](https://i.ibb.co/XxbPX5sc/Whats-App-Image-2025-11-23-at-9-35-21-PM-2.jpg)
+
+![Imagen de las recomendaciones en cuanto a popularidad](https://i.ibb.co/JRJc1XtS/Whats-App-Image-2025-11-23-at-9-35-20-PM-1.jpg)
+![Imagen de las recomendaciones en cuanto a popularidad2](https://i.ibb.co/6hmtFZq/Whats-App-Image-2025-11-23-at-9-35-20-PM-2.jpg)
+![Imagen de las recomendaciones en cuanto a popularidad3](https://i.ibb.co/MXmH3qc/Whats-App-Image-2025-11-23-at-9-35-20-PM-3.jpg)
+![Imagen de las recomendaciones en cuanto a popularidad4](https://i.ibb.co/PZfSB222/Whats-App-Image-2025-11-23-at-9-35-20-PM-4.jpg)
+![Imagen de las recomendaciones en cuanto a popularidad5](https://i.ibb.co/8gR38Bzd/Whats-App-Image-2025-11-23-at-9-35-21-PM.jpg)
+![Imagen de las recomendaciones en cuanto a popularidad6](https://i.ibb.co/MxY9z4yG/Whats-App-Image-2025-11-23-at-9-35-21-PM-1.jpg)
 
 >Cada una de las recomendaciones que se le proporciona al usuario dependiendo de la popularidad del producto, mostrando las características, precio y estrellas del mismo.
 
