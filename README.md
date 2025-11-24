@@ -1,7 +1,7 @@
 # GameTech Store
 
 ### Descripción General
-Yo como uasuario quiero navegar a través del catálogo de productos electrónicos, visualizar la información detallada de cada artículo y añadirlos al carrito de compras, para realizar una compra de forma rápida, segura y con la información necesaria para tomar una decisión informada.
+Yo como usuario quiero navegar a través del catálogo de productos electrónicos, visualizar la información detallada de cada artículo y añadirlos al carrito de compras, para realizar una compra de forma rápida, segura y con la información necesaria para tomar una decisión informada.
 
 
 ### Requerimientos funcionales
