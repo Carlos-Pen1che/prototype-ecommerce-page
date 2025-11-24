@@ -1,5 +1,8 @@
 # GameTech Store
 
+### Link de acceso a la página wweb.
+[Ingresa a nuestra página e-commerce](https://thorn-salsa-75782224.figma.site/)
+
 ### Descripción General
 Yo como usuario quiero navegar a través del catálogo de productos electrónicos, visualizar la información detallada de cada artículo y añadirlos al carrito de compras, para realizar una compra de forma rápida, segura y con la información necesaria para tomar una decisión informada.
 
@@ -41,17 +44,32 @@ Aquellos requisitos que no fueron viables para su ejecución en el proyecto e-co
 
 ### Bosquejos inciales del diseño de la interfaz en su primera versión del proyecto
 
-![Imagen de la barra de búsquedas y otras funciones.]
+![Imagen del inicio de sesión](https://i.ibb.co/qLYkWL4f/Whats-App-Image-2025-11-23-at-9-35-14-PM.jpg)
 
->Imagen del buscador de productos junto al carrito y otras opciones para su uso.
+>Imagen del inicio de sesión.
 
-![Imagen de la página de inicio.]
+![Inicio de sesión_cuenta_correo](https://i.ibb.co/n8LjJNxd/Whats-App-Image-2025-11-23-at-9-35-15-PM.jpg)
+
+>Imagen donde intruducir el correo.
+
+![Crear](https://i.ibb.co/ZRLK6j89/Whats-App-Image-2025-11-23-at-9-35-15-PM-1.jpg)
+
+>Crear cuenta.
+
+![Imagen de la página de inicio.](https://i.ibb.co/NgNGW01p/Whats-App-Image-2025-11-23-at-9-35-18-PM.jpg)
 
 >Imagen de la página inicial.
 
-![Imagen de las categorías.]
-![Imagen de las categorías 2.]
+![Categorías](https://i.ibb.co/76X42yc/Whats-App-Image-2025-11-23-at-9-35-20-PM.jpg)
 
+![Imagen de las categorías.](https://i.ibb.co/hxvTZDJY/Whats-App-Image-2025-11-23-at-9-35-18-PM-1.jpg)
+![Imagen de las categorías 2.](https://i.ibb.co/0pq3tkX4/Whats-App-Image-2025-11-23-at-9-35-19-PM.jpg)
+![Imagen de las categorías 3.](https://i.ibb.co/0pq3tkX4/Whats-App-Image-2025-11-23-at-9-35-19-PM.jpg)
+![Imagen categorías 4.](https://i.ibb.co/Mxs4PVL8/Whats-App-Image-2025-11-23-at-9-35-19-PM-1.jpg)
+![Imagen categorías 5.](https://i.ibb.co/sGSRpJc/Whats-App-Image-2025-11-23-at-9-35-19-PM-2.jpg)
+![Imagen categorías 6.](https://i.ibb.co/C375x1gy/Whats-App-Image-2025-11-23-at-9-35-19-PM-3.jpg)
+![Imagen categorías 7.](https://i.ibb.co/qYB0G3rd/Whats-App-Image-2025-11-23-at-9-35-19-PM-4.jpg)
+![Imagen categorías 8.](https://i.ibb.co/wh2BzSk9/Whats-App-Image-2025-11-23-at-9-35-19-PM-5.jpg)
 >Imagen de la visualización de las diferentes categorías.
 
 ![Imagen de las recomendaciones en cuanto a popularidad]
