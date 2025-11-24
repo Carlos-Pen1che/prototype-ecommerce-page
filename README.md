@@ -249,13 +249,13 @@ Más adelante se muestra la distribución de roles aplicada a nuestro contexto.
 Este informe presenta el análisis de costos del proyecto E-commerce, ejecutado bajo la metodología Scrum con el objetivo de desarrollar una plataforma funcional. El proyecto tuvo una duración óptima de 2.4 meses (12 de septiembre al 23 de noviembre de 2025) y un costo total definitivo de $954,125 MXN. Este costo se considera coherente con el mercado mexicano para un proyecto de esta complejidad. Para ello se pueden usar algunos métodos como:
 
 1. Método Basado en Puntos de Función (PF) y LOC
-![Imagen_Método_1](https://ibb.co/672PghJ2)
+[](https://ibb.co/672PghJ2)
 
 2. Método COCOMO Semi-Detache
-![Imagen_Método_2](https://ibb.co/C3DmG1rt)
+[](https://ibb.co/C3DmG1rt)
 
 Con ello se dedujo lo siguiente:
-![Imagen_Costo_total](https://ibb.co/cSqj8HhX)
+[](https://ibb.co/cSqj8HhX)
 
 • Se consideraron salarios diferenciados por rol, esfuerzo adicional por la metodología Scrum y
  beneficios del equipo.
