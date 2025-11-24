@@ -25,21 +25,21 @@ Aquellos requisitos que no fueron viables para su ejecución en el proyecto e-co
 -    **Apariencia desordenada de la intefaz en la página inicial:** En un inicio nuestro comprador no tenía una idea clara de lo que quería que se mostrara al momento de desplegarse su página de e-commerce proporcionando colores apagados, teniend una idea monótona y deficiente de lo que búscaba por lo que se le hicieron las respectivas observaciones para tener una mejor imagen del proyecto a lo que aceptó.
 -    **Ventanas emergentes en exceso:** Se le comentó al cliente que el uso excesivo de ventanas emergentes que aparecen de manera frecuente e inesperada resultan en gran medida muy molestas para los usuarios por el hecho de interrupir la navegación por la página lo que desemboca en el abandono de la misma, la atención y paciencia de las personas en la actualidad son muy efímeras por lo que es un aspecto importante.
 
--    Rendimiento: Define la rapidez, capacidad de respuesta y eficiencia con la que el sistema realiza sus funciones.
+-    **Rendimiento:** Define la rapidez, capacidad de respuesta y eficiencia con la que el sistema realiza sus funciones.
 
--    Confiabilidad: Indica la capacidad del sistema para operar sin fallos durante un periodo determinado.
+-    **Confiabilidad:** Indica la capacidad del sistema para operar sin fallos durante un periodo determinado.
 
--    Seguridad: Establece las medidas necesarias para proteger la información y controlar el acceso al sistema.
+-    **Seguridad:** Establece las medidas necesarias para proteger la información y controlar el acceso al sistema.
 
--    Usabilidad: Determina qué tan fácil y comprensible resulta el sistema para los usuarios.
+-    **Usabilidad:** Determina qué tan fácil y comprensible resulta el sistema para los usuarios.
 
--    Compatibilidad: Especifica con qué otros sistemas, plataformas o entornos debe poder funcionar.
+-    **Compatibilidad:** Especifica con qué otros sistemas, plataformas o entornos debe poder funcionar.
 
--    Mantenibilidad: Define la facilidad con la que el sistema puede ser corregido, modificado o mejorado.
+-    **Mantenibilidad:** Define la facilidad con la que el sistema puede ser corregido, modificado o mejorado.
 
--    Portabilidad: Indica la capacidad del sistema para trasladarse o ejecutarse en diferentes entornos o plataformas.
+-    **Portabilidad:** Indica la capacidad del sistema para trasladarse o ejecutarse en diferentes entornos o plataformas.
 
--    Escalabilidad: Describe la capacidad del sistema para aumentar su rendimiento o tamaño sin perder eficiencia.
+-    **Escalabilidad:** Describe la capacidad del sistema para aumentar su rendimiento o tamaño sin perder eficiencia.
 
 
 ### Bosquejos inciales del diseño de la interfaz en su primera versión del proyecto
