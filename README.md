@@ -239,9 +239,11 @@ Aplicar la metodología Scrum en un proyecto de e-commerce garantiza un desarrol
 
 Más adelante se muestra la distribución de roles aplicada a nuestro contexto.
 
-### Bitácora:
+### Bitácoras:
 
-En cuanto a la primera parte del proyecto, realizamos reuniones constantes y profundas tanto entre el equipo como con el cliente, la comunicación del equipo ha sido clara y concisa en donde todos hemos colaborado adecuandamente y en donde hemos evitado los problemas que se puedan llegar a presentar durante nuestro desarrollo, sin embargo, no pudimos evitar situaciones naturales como lo ha sido el desafortunado hecho de atrasarnos durante un sprint completo debido a cuestiones medicas y personales en el equipo de desarrollo.
+[Bitácoras de la Desarrolladora FrontEnd](https://ibb.co/q3vDY64W)[](https://ibb.co/Kx7zDtHX)[](https://ibb.co/CGj1DGS)
+[Bitácoras del Desarrollador Backend](https://ibb.co/r20dzNkY)[](https://ibb.co/qh6x8mG)[](https://ibb.co/s9X3GMFd)
+[Bitácoras del Tester](https://ibb.co/5WL7w2N4)[](https://ibb.co/2H6d7fS)[](https://ibb.co/27qMXkhJ)
 
 ### Equipo de Proyecto
 Este proyecto fue realizado por el equipo de desarrollo.
