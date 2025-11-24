@@ -1,1 +1,375 @@
-### Documentación de todo el Proyecto E-Comerce 
+ Documentación de todo el Proyecto E-Comerce 
+1. El sistema desarrollado es una plataforma de comercio electrónico que incluye:
+- Catálogo de productos  
+- Carrito de compras  
+- Checkout  
+- Autenticación de usuarios  
+- Sistema de reseñas  
+- Búsqueda avanzada  
+- Comparación de productos  
+- Panel administrativo básico  
+- Páginas informativas y legales  
+1.1Metodología aplicada
+El proyecto fue desarrollado bajo el marco SCRUM, con:
+- Reuniones diarias (Daily Scrum)  
+- Revisiones con el Product Owner (PO)  
+- Retrospectivas por sprint  
+- Planeación incremental  
+- Entregables por iteración  
+1.2 Duración Total: 12 de septiembre al 23 de noviembre de 2025 (2.4 meses).
+Líneas de Código (LOC) Estimadas: 7,755 LOC.
+JavaScript: 7,740 LOC (98.7%).
+Todo el proyeco se desarrollará en un total de 5 Sprints,
+El proyecto inició el 12 de sptiembre del 2025 al 23 de noviembre del 2025, con un total de 69 días para su desarrollo.
+1.3 El proyecto se dividió en 5 Sprints, con un enfoque incremental y validación por el QA Tester (Ezequiel Aranda) en el pre-cierre de cada ciclo.
+-Sprint 1: Fundamentos y Diseño (16-Sep al 30-Oct)
+Enfoque: Establecimiento de la base técnica y diseño visual.
+Tareas Críticas:
+Diseño de UI y Branding (colorimetría, tipografías).
+Definición de sistemas de productos, categorías e imágenes.
+Desarrollo de wireframes detallados para Home, Catálogo y Producto.
+Implementación de los endpoints CRUD iniciales en Mockeitt (para productos).
+Validación de Cierre: Revisión interna del flujo UX, enfocándose en la jerarquía de la información.
+
+-Sprint 2: Vistas Estáticas y Catálogo (01-Oct al 14-Oct)
+Enfoque: Desarrollo de componentes del Front-end e integración del catálogo.
+Tareas Críticas:
+Configuración del entorno React y estructura de componentes.
+Desarrollo de la vista de Catálogo y la vista de Producto Individual.
+Implementación de filtros básicos (por categoría, rango de precio) en la interfaz.
+Desarrollo de las páginas secundarias (Nosotros, Contacto, Ayuda).
+Validación de Cierre: Smoke Testing para asegurar la correcta navegación entre las vistas principales
+
+-Sprint 3: Flujo de Transacción y Autenticación (15-Oct al 31-Oct)
+Enfoque: Desarrollar la lógica transaccional y la simulación de usuario.
+Tareas Críticas:
+Diseño y desarrollo del componente Carrito (lógica de totales, actualización de cantidades).
+Implementación visual del proceso de Checkout en un formato "paso a paso".
+Persistencia de Carrito: Uso de localStorage para simular la persistencia de la sesión de compra.
+Implementación del sistema de Usuarios (formularios de registro/login) e integración simulada con el token JWT.
+Validación de Cierre: Pruebas de la lógica del carrito (cálculos, vaciado, adición).
+
+-Sprint 4: Funcionalidades Avanzadas y Optimización (01-Nov al 14-Nov)
+Enfoque: Implementación de características complejas y optimización de rendimiento.
+Tareas Críticas:
+Implementación del sistema de Reseñas y Calificaciones (integración visual de estrellas y comentarios).
+Desarrollo de la Búsqueda Avanzada, incluyendo el ajuste de debounce en la barra de búsqueda para optimizar el rendimiento de la consulta.
+Desarrollo del Módulo de Comparación de Productos.
+Validación de Cierre: Pruebas de rendimiento en componentes del Catálogo y verificación de la precisión de los resultados de búsqueda.
+
+-Sprint 5: Integración Final y Entrega (15-Nov al 23-Nov)
+Enfoque: Correcciones de calidad, optimización para la entrega y documentación.
+
+Tareas Críticas:
+Implementación de SEO (metadatos, titles dinámicos y generación de sitemaps).
+Corrección de Responsividad en celulares y tablets (identificado y corregido en el Daily Scrum).
+Pruebas de Seguridad (Simuladas): Validación de contraseñas, prevención de inyecciones y protección de rutas con el token JWT.
+Imlementación de las páginas legales: "Términos y Condiciones" y "Política de Privacidad".
+Entrega Final: Merge, verificación del build final y presenta
+Al tener ya el cronograma se realizó el diagrama de Gantt, para tener una mejor herramienta visual del proyecto.
+
+12 de septiembre - Reunión con todo el equipo para asignar roles y organizarnos.
+- Principalmente se reaizó la asignación de roles, midiendo las fortalezas de cada integrante para cada rol, por lo que quedó de la siguiente forma:
+Product Owner: Carlos Elian Peniche Sel.
+Scrum Mater: Paloma Guadalupe Nauat och.
+El equipo de desarrollo conformado por:
+Blanca del Ángel Ceballos Medina: Desarrollador front-end, UI/UX
+Eduardo Alejandro Huerta Gómez: Desarrollador back-end
+Ezequiel Aranda Loria: Tester/QA
+- Elección de metotología. SCRUM
+Justificación: El marco Scrum, con sus ciclos de desarrollo cortos y retroalimentación constante, es ideal para proyectos donde los requisitos pueden evolucionar.
+Beneficios: Nos permite entregar un producto usable de forma incremental, lo que facilita la revisión y la adaptación. La transparencia de este modelo nos permite identificar y resolver problemas de forma temprana.
+- Gestión de Proyectos y Comunicación:
+Monday:
+Justificación: Esta plataforma visual nos servirá como nuestro tablero Kanban/Scrum digital. Nos permite crear tareas, asignar responsables, establecer fechas límite y visualizar el progreso de cada funcionalidad.
+Beneficios: Ofrece una visibilidad total del proyecto, lo que mejora la transparencia y permite a todos los miembros del equipo entender el estado del trabajo en un solo vistazo.
+Slack:
+Justificación: Slack es nuestro canal de comunicación principal. Permite la comunicación instantánea y organizada a través de canales dedicados, evitando la saturación de correos electrónicos.
+Beneficios: Fomenta la comunicación ágil y asíncrona, manteniendo a todo el equipo informado y coordinado, especialmente útil para resolver problemas rápidamente.
+- Control de Versiones y Colaboración Técnica
+GitHub:
+Justificación: Es la herramienta estándar para el control de versiones de código. Nos permitirá trabajar en paralelo en diferentes funcionalidades sin interferir con el trabajo de los demás.
+Beneficios: Garantiza la integridad del código del proyecto. Al usar ramas de desarrollo y revisiones de código, podemos integrar los cambios de forma segura y mantener un historial detallado de todo el progreso del proyecto.
+- Prototipado y Simulación de Datos
+Mokeitt:
+Justificación: Mockeitt es el pilar de este proyecto. Su principal función es simular la API de un servidor y proporcionar los datos necesarios (productos, precios, descripciones, etc.) para que el front-end funcione.
+Figma:
+Prototipado que se utilizó para desarrollar wireframes detallados y mockups de alta fidelidad, asegurando la aprobación del Product Owner antes de la codificación.
+- 13 de septiembre:
+•	Identificación detallada de requerimientos del usuario final.
+•	Eduardo evalúa alternativas de backend y estructura lógica del servidor.
+•	Blanca analiza flujos de navegación estándar para e-commerce.
+•	Especificación preliminar de historias de usuario para el Product Backlog.
+•	DAILY SCRUM: Alineación sobre la definición de "Done" inicial.
+Entre todos seguíamos con la organización del proyecto.
+-14 de septiembre •	Diseño de la arquitectura lógica preliminar del sistema.
+•	Se crea el modelo preliminar de datos para usuarios, productos y pedidos.
+•	DAILY SCRUM: Sin bloqueadores reportados.
+- 15 de septiembre:
+•	Revisión conjunta con el PO:
+o	Validación del diseño inicial.
+o	Ajustes solicitados: incluir subcategorías desde el diseño base.
+•	Refinamiento del Product Backlog.
+•	Planificación inicial del Sprint 1.
+•	DAILY SCRUM: se establecen entregables del primer sprint.
+
+- Inicio del primer Sprint del proyecto
+16 al 30 de septiembre
+16–17 de septiembre
+Actividades:
+•	Blanca desarrolla wireframes de páginas Home, Catálogo y Producto con mayor detalle.
+•	Eduardo crea el repositorio GitHub.
+•	DAILY SCRUM: Alineación sobre diseño atómico de componentes.
+18 de septiembre
+Actividades:
+•	Eduardo crea el modelo entidad-relación definitivo.
+•	Blanca desarrolla propuestas para header, navegación y barras de búsqueda.
+•	DAILY SCRUM: Se identifican dependencias entre diseño e implementación.
+19–20 de septiembre
+Actividades:
+•	Revisión interna de flujo UX: navegación, jerarquía, usabilidad.
+•	Ajustes de colorimetría, tipografías y estilos visuales.
+•	Eduardo diseña los endpoints iniciales (/products, /users, /auth).
+•	Reunión con PO: aprobación del diseño visual base.
+•	DAILY SCRUM: Refinamiento de tareas por miembro.
+21–22 de septiembre
+Actividades:
+•	Blanca diseña mockups de alta fidelidad para carrito y checkout.
+•	Eduardo implementa estructura base del servidor (server.js, rutas iniciales y controladores).
+•	DAILY SCRUM: Revisión de impedimentos técnicos menores.
+ 23 al 25 de septiembre
+Actividades:
+•	Sin muchos cambios por motivos de salud.
+•	DAILY SCRUM: Ajustes en la estructura del repositorio.
+26–27 de septiembre
+Actividades:
+•	Desarrollo de páginas secundarias: “Nosotros”, “Contacto”, “Ayuda”.
+•	Eduardo implementa endpoints CRUD para productos.
+•	DAILY SCRUM: Coordinación para pruebas iniciales.
+28–30 de septiembre
+Actividades:
+•	Revisión formal del Sprint 1 con el PO.
+•	Se solicita ampliar filtros en catálogo.
+•	Retrospectiva:
+o	Se mejora el flujo de revisión de diseño.
+o	Se acuerda integrar componentes de forma incremental.
+•	Planificación del Sprint 2.
+ SPRINT 2 – Desarrollo Frontend Inicial y Vistas Principales
+1 al 14 de octubre
+1–2 de octubre
+Actividades:
+•	Configuración del entorno React, estructura de componentes y rutas base.
+•	Entrega de set definitivo de assets UI.
+•	DAILY SCRUM: Reporte de dependencias del diseño.
+3 al 5 de octubre
+Actividades:
+•	Desarrollo de catálogo:
+o	Componentes
+o	Periféricos
+o	Consolas
+o	Streaming
+o	VR/AR
+•	DAILY SCRUM: Ajustes por diferencias entre diseño y construcción.
+6 al 9 de octubre
+Actividades:
+•	Implementación de vista de producto individual.
+•	Integración del botón "Agregar al carrito".
+•	Eduardo inicia integración con el backend para productos (requests GET).
+•	DAILY SCRUM: Se corrige problema de cors.
+ 10–11 de octubre
+Actividades:
+•	Diseño e implementación de filtros básicos (categoría, precio, orden).
+•	Validación técnica de rendimiento en consultas iniciales.
+•	DAILY SCRUM: revisión de pruebas funcionales.
+12–14 de octubre
+Actividades:
+•	Revisión con PO: se solicita integración futura de comparación entre productos.
+•	Cierre de Sprint 2 y retrospectiva:
+o	Identificación de bloqueadores técnicos durante integración.
+o	Se acuerda preparar pipelines para integración continua.
+•	Planeación del Sprint 3.
+SPRINT 3 – Carrito, Checkout y Sistema de Usuarios
+15 al 31 de octubre
+15–17 de octubre
+Actividades:
+•	Desarrollo del carrito:
+o	Componente del carrito
+o	Actualización dinámica de cantidades
+o	Cálculo de totales
+•	Diseño final del layout de carrito.
+•	DAILY SCRUM: revisión de estados globales en React.
+18–22 de octubre
+Actividades:
+•	Persistencia del carrito en localStorage y luego en usuario autenticado.
+•	Implementación de formulario de registro e inicio de sesión.
+•	Integración del módulo de autenticación JWT.
+•	DAILY SCRUM: bloqueo temporal con tokens no válidos; Eduardo lo soluciona el día 23.
+23–26 de octubre
+Actividades:
+•	Integración login-carrito completada.
+•	Implementación visual del checkout en modo “paso a paso”.
+•	Validaciones de campos y mensajes de error.
+•	Revisión con PO: aprobación del flujo funcional.
+•	DAILY SCRUM: seguimiento de pruebas.
+27–31 de octubre
+Actividades:
+•	Implementación de documentación técnica del sprint.
+•	Ajustes finales en formularios.
+•	Retrospectiva del Sprint 3:
+o	Necesidad de priorizar pruebas automatizadas.
+o	Se acuerda mejorar manejo de errores global.
+•	Planificación del Sprint 4.
+SPRINT 4 – Funcionalidades Avanzadas, Optimización y Pruebas
+1 al 14 de noviembre
+1–4 de noviembre
+Actividades:
+•	Implementación del sistema de reseñas y calificaciones.
+•	Integración entre reseñas y productos.
+•	Configuración del almacenamiento y sanitización de comentarios.
+•	DAILY SCRUM: revisión de seguridad y filtrado de inputs.
+5–9 de noviembre
+Actividades:
+•	Desarrollo de búsqueda avanzada (coincidencias parciales, categoría, rango de precios).
+•	Pruebas de rendimiento en componentes de catálogo.
+•	DAILY SCRUM: ajuste de debounce en barra de búsqueda.
+10–14 de noviembre
+Actividades:
+•	Implementación del módulo de comparación de productos.
+•	Pruebas internas de funcionalidad.
+•	Revisión con PO y validación del Sprint 4.
+•	Retrospectiva:
+o	Se identifican oportunidades en accesibilidad.
+•	Planificación del Sprint 5.
+SPRINT 5 – Integración Final, Correcciones, SEO y Entrega
+15 al 23 de noviembre
+15–17 de noviembre
+Actividades:
+•	Implementación de SEO: metadatos, titles dinámicos, sitemaps.
+•	Revisión integral de UI/UX.
+•	Corrección de detalles visuales (alineaciones, espaciados, microinteracciones).
+•	Pruebas de usabilidad internas.
+•	DAILY SCRUM: se detectan problemas de responsividad en celulares y tablets.
+18–20 de noviembre
+Actividades:
+•	Pruebas de seguridad:
+o	Validación de contraseñas
+o	Prevención de inyecciones
+o	Protección de rutas
+•	Corrección de errores en backend.
+•	Revisión con PO: se solicitan páginas de políticas legales.
+•	DAILY SCRUM: seguimiento de issues abiertos.
+21–22 de noviembre
+Actividades:
+•	Implementación de "Términos y Condiciones" y "Política de Privacidad".
+•	Preparación del demo para presentación.
+•	DAILY SCRUM: cierre de tareas pendientes.
+23 de noviembre. ENTREGA FINAL
+Actividades:
+•	Revisión final del código en todas las ramas.
+•	Merge y verificación del build final.
+•	Presentación formal al PO.
+•	Documentación entregada:
+o	Manual técnico
+o	Manual de usuario
+o	Guía de despliegue
+•	Retrospectiva general del proyecto.
+•	Cierre del Sprint 5 y del proyecto.
+En cada termino del Sprint el Tester Ezequiek Aranda testeaba y cominicaba los errores encontrados, por lo que se contenplaban en las siguientes actividades de los Sprints, sus actividades fueron las siguientes:
+Detalle del Control de Calidad (QA)
+1. Roles y Metodología
+Responsable: Ezequiel Aranda (QA Tester).
+
+Integración: Las pruebas fueron continuas y se realizaron durante la finalización de cada uno de los 5 Sprints.
+
+Gestión de Defectos: Los issues (problemas) detectados se gestionaban y se les daba seguimiento en el DAILY SCRUM.
+
+2. Tipos de Pruebas Ejecutadas
+A. Pruebas de Fundamentos y Estabilidad
+Smoke Testing:
+
+Ejecución obligatoria de la Validación Pre–Cierre de Sprint para garantizar la estabilidad y funcionalidad básica del sistema antes de cada revisión formal.
+
+B. Pruebas de Usabilidad y Experiencia de Usuario (UX)
+Revisión de Diseño:
+
+Validación de wireframes y mockups de alta fidelidad desarrollados en Figma.
+
+Revisión del flujo UX (navegación, jerarquía de información y usabilidad) en las etapas iniciales.
+
+Ajustes Visuales:
+
+Revisión integral de UI/UX para la corrección de detalles visuales, como alineaciones, espaciados y microinteracciones (realizado en el Sprint 5).
+
+C. Pruebas Funcionales y Transaccionales
+Lógica del Carrito:
+
+Pruebas de la actualización dinámica de cantidades en el carrito.
+
+Verificación de la exactitud de los cálculos de subtotales y totales.
+
+Prueba de la persistencia del carrito utilizando localStorage.
+
+Flujo de Compra:
+
+Validación del flujo de Checkout "paso a paso".
+
+Búsqueda y Filtros:
+
+Prueba del sistema de búsqueda avanzada (coincidencias parciales y rangos de precio).
+
+Verificación del ajuste de debounce en la barra de búsqueda para optimizar el rendimiento.
+
+Funcionalidades Avanzadas:
+
+Pruebas del sistema de reseñas y calificaciones.
+
+Pruebas del módulo de comparación de productos.
+
+D. Pruebas de Seguridad (Simuladas)
+Autenticación:
+
+Validación de la lógica simulada de inicio de sesión/registro.
+
+Verificación de la protección de rutas mediante la simulación de tokens JWT.
+
+Manejo de Inputs:
+
+Pruebas de validación de contraseñas.
+
+Pruebas de sanitización de comentarios y filtrado de inputs en el sistema de reseñas para prevenir ataques de inyección (XSS/SQLi simulado).
+
+E. Pruebas de Responsividad y Rendimiento
+Compatibilidad de Dispositivos:
+
+Verificación de la corrección de problemas de responsividad en la visualización en celulares y tablets, identificados en el DAILY SCRUM del Sprint 5.
+
+Rendimiento:
+
+Pruebas de rendimiento en componentes del Catálogo para asegurar una carga rápida y fluida.
+
+-Documentación y Entregables Finales
+El proyecto concluyó el 23 de noviembre de 2025 con la entrega formal de los siguientes artefactos:
+
+Código Fuente: Repositorio en GitHub con el código final.
+
+Manual Técnico: Documento con la estructura del código, dependencias, flujo de despliegue y arquitectura.
+
+Manual de Usuario: Guía para el uso de las funcionalidades del E-commerce (navegación, filtros, proceso de compra).
+
+Guía de Despliegue: Instrucciones detalladas para configurar el entorno y lanzar la aplicación estática.
+
+Documentación Formal y Entregables: Conjunto de documentos administrativos y legales (estimado en $5,000 MXN).
+
+Demo: Presentación funcional al Product Owner.
+Al tener toda la información recabada se hizo la estimación del costo del proyecto
+La estimación inicial se basó en Puntos de Función y el modelo COCOMO Semi-Detached, proporcionando una base para la gestión del proyecto.
+El proyecto cuenta con 157 Puntos de Función, Esfuerzo (COCOMO)29.1 personas-mes 9El modelo COCOMO estimó este esfuerzo para una duración ideal de 8.1 meses10. El equipo ejecutó el proyecto en 2.4 meses con 5 personas, optimizando la eficiencia
+El proyecto se ejecutó en 2.4 meses con 5 personas, lo que contrasta con la estimación de 8.1 meses de COCOMO, indicando que la ejecución fue optimizada para la eficiencia y el cumplimiento de objetivos
+En conclusión el costo total asciende a 945,125 MXN. 
+• Se consideraron salarios diferenciados por rol, esfuerzo adicional por la metodología Scrum y
+ beneficios del equipo.
+
+• Proyecto ejecutado con cumplimiento de plazos, calidad en desarrollo, infraestructura,
+ seguridad y soporte.
+•Costo coherente con el mercado mexicano para un proyecto e-commerce profesional y
+ funcional
