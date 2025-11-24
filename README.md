@@ -41,7 +41,7 @@ Aquellos requisitos que no fueron viables para su ejecución en el proyecto e-co
 
 -    **Escalabilidad:** Describe la capacidad del sistema para aumentar su rendimiento o tamaño sin perder eficiencia.
 
-
+### CONSTRUCCIÓN.
 ### Bosquejos inciales del diseño de la interfaz en su primera versión del proyecto
 
 ![Imagen del inicio de sesión](https://i.ibb.co/qLYkWL4f/Whats-App-Image-2025-11-23-at-9-35-14-PM.jpg)
