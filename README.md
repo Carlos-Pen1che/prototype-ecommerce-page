@@ -1,6 +1,6 @@
 # GameTech Store
 
-### Link de acceso a la página wweb.
+### Link de acceso a la página web.
 [Ingresa a nuestra página e-commerce](https://thorn-salsa-75782224.figma.site/)
 
 ### Descripción General
@@ -64,7 +64,6 @@ Aquellos requisitos que no fueron viables para su ejecución en el proyecto e-co
 
 ![Imagen de las categorías.](https://i.ibb.co/hxvTZDJY/Whats-App-Image-2025-11-23-at-9-35-18-PM-1.jpg)
 ![Imagen de las categorías 2.](https://i.ibb.co/0pq3tkX4/Whats-App-Image-2025-11-23-at-9-35-19-PM.jpg)
-![Imagen de las categorías 3.](https://i.ibb.co/0pq3tkX4/Whats-App-Image-2025-11-23-at-9-35-19-PM.jpg)
 ![Imagen categorías 4.](https://i.ibb.co/Mxs4PVL8/Whats-App-Image-2025-11-23-at-9-35-19-PM-1.jpg)
 ![Imagen categorías 5.](https://i.ibb.co/sGSRpJc/Whats-App-Image-2025-11-23-at-9-35-19-PM-2.jpg)
 ![Imagen categorías 6.](https://i.ibb.co/C375x1gy/Whats-App-Image-2025-11-23-at-9-35-19-PM-3.jpg)
